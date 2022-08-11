@@ -45,6 +45,10 @@ a {
 
 p {
     font-size: 16px;
+    padding: 20px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: #2a607c;
+    color: white;
 }
 
 .hero {
@@ -80,7 +84,7 @@ p {
     width: 20%;
     height: 100%;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background-color: #2589bd;
+    background-color: #2a607c;
 }
 
 .benefit-lead {
@@ -137,7 +141,7 @@ p {
     padding: 50px;
     height: 300px;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background-color: #0072bb;
+    background-color: #2a607c;
     color: #ffffff;
 }
 
@@ -153,10 +157,13 @@ p {
 .social-media-marketing img {
     max-height: 200px;
 }
-
+/* corrected h2s */
 .search-engine-optimization h2 {
-    margin-bottom: 20px;
-    font-size: 36px;
+    font-size: 36px;    
+    padding: 20px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: #2a607c;
+    color: white;
 }
 
 .online-reputation-management h2 {
