@@ -83,38 +83,38 @@ p {
     clear: both;
     float: right;
     width: 20%;
-    height: 100%;
+    height: 75%;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #2a607c;
 }
 
 .benefit-lead {
-    margin-bottom: 1px;
+    margin-bottom: 0px;
     color: #ffffff;
 }
 
 .benefit-brand {
-    margin-bottom: 32px;
+    margin-bottom: 0px;
     color: #ffffff;
 }
 
 .benefit-cost {
-    margin-bottom: 32px;
+    margin-bottom: 0px;
     color: #ffffff;
 }
 
 .benefit-lead h3 {
-    margin-bottom: 10px;
+    margin-bottom: 0px;
     text-align: center;
 }
 
 .benefit-brand h3 {
-    margin-bottom: 10px;
+    margin-bottom: 0px;
     text-align: center;
 }
 
 .benefit-cost h3 {
-    margin-bottom: 10px;
+    margin-bottom: 0px;
     text-align: center;
 }
 
@@ -140,7 +140,7 @@ p {
 .content div {
     margin-bottom: 20px;
     padding: 50px;
-    height: 300px;
+    height: 200px;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #2a607c;
     color: #ffffff;
