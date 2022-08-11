@@ -131,10 +131,8 @@ p {
     max-width: 150px;
 }
 /* refactored css to match styles for content section */
-
-.search-engine-optimization,
-.online-reputation-management,
-.social-media-marketing {
+/* condensed */
+.content div {
     margin-bottom: 20px;
     padding: 50px;
     height: 300px;
