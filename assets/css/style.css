@@ -45,7 +45,8 @@ a {
 
 p {
     font-size: 16px;
-    padding: 20px;
+    padding-top: 20px;
+    padding-bottom: 75px;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #2a607c;
     color: white;
@@ -88,7 +89,7 @@ p {
 }
 
 .benefit-lead {
-    margin-bottom: 32px;
+    margin-bottom: 1px;
     color: #ffffff;
 }
 
@@ -148,19 +149,26 @@ p {
 
 .search-engine-optimization img {
     max-height: 200px;
+    margin-left: 10px;
+    margin-top: 30px
 }
 
 .online-reputation-management img {
     max-height: 200px;
+    margin-right: 10px;
+    margin-top: 15px
 }
 
 .social-media-marketing img {
     max-height: 200px;
+    margin-bottom: 20px;
+    margin-top: 10px;
+    margin-left: 10px;
 }
 /* corrected h2s */
 .search-engine-optimization h2 {
     font-size: 36px;    
-    padding: 20px;
+    padding-top: 75px;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #2a607c;
     color: white;
